@@ -9,3 +9,7 @@ Exercises from Data Formation Program offered in partnership between Lojas Renne
 ## Python para Iniciantes - DataB
 
 Exercises from Python for Begginers course offered by DataB plataform. In the classes, initial concepts of conditional, loops, lists and tuples, dictionaries, libraries and functions
+
+## IF165 - Computação Eletrônica
+
+Exercises solved using Python language from Eletronic Computing discipline of the general engineering courses at Federal University of Pernambuco (UFPE).  
